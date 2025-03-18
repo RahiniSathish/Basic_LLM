@@ -1,0 +1,7 @@
+python-dotenv
+requests
+python-dotenv
+streamlit
+llama-index-llms-ollama
+fastapi
+uvicorn
